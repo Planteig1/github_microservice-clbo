@@ -61,3 +61,5 @@ See `requirements.txt` for a full list of Python dependencies.
 
 ## Security Note
 Ensure that the JWT_SECRET_KEY matches the one used in the api_gateway service to allow proper token validation across services.
+
+d
